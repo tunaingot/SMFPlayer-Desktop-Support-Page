@@ -19,7 +19,7 @@
 MIDIファイルをドラッグ＆ドロップでアプリケーションに追加します。
 
 フォルダをドラッグ＆ドロップした場合は、フォルダの階層は維持された状態でアプリケーションに追加されます。
-<p align="right">
+<p align="center">
 <img width="600" height="554" alt="image" src="images/100.png" />
 </p>
 
@@ -27,7 +27,7 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 - ウィンドウ右上の「SMFフォルダ」ボタンを押すと、取り込んだファイルが保存されている場所をFinderで開くことができます
 - MIDIファイル、フォルダはアプリケーションへのドラッグ＆ドロップでなく、Finder上で追加・削除してもアプリケーションに反映されます
 
-<p align="right">
+<p align="center">
 <img width="600" height="480" alt="image" src="images/200.png" />
 </p>
 
@@ -42,7 +42,7 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 - フォルダ作成
 - ファイル・フォルダの名称変更
 - ファイル・フォルダの削除
-<p align="right">
+<p align="center">
 <img width="600" height="480" alt="image" src="images/250.png" />
 </p>
 
@@ -55,14 +55,14 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 
 MIDIデータを送信したいデバイスを選択してください。
 
-<p align="right">
+<p align="center">
 <img width="600" height="436" alt="image" src="images/300.png" />
 </p>
 
 ### MIDIファイルを再生する
 再生したいファイルを選択し、再生ボタンを押すとMIDIファイルが再生されます。
 
-<p align="right">
+<p align="center">
 <img width="600" height="524" alt="image" src="images/400.png" />
 </p>
 
