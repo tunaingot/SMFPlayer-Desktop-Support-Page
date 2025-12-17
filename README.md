@@ -1,2 +1,81 @@
-# SMFPlayer-Desktop-Support-Page
+# SMFPlayer-Desktop Support Page
 
+[English version](README.en.md)
+
+## 概要
+このアプリはSMF(Standard MIDI File)を読み込み、Macに接続されたMIDI機器へMIDIデータを送るためのアプリケーションです。
+
+### 特徴
+1. MIDIデータはアプリケーションが利用するストレージ領域にコピーして利用するので、オリジナルデータを編集・削除することはありません
+2. 鍵盤表示で演奏情報をグラフィカルに表示します
+3. お気に入りを集めたプレイリストを作ることができます
+
+## 使い方
+本アプリケーションをダウンロードし、初めて使うときは利用したいMIDIファイルを本アプリケーションに追加します。
+
+その後は再生したり、お気に入りを集めたプレイリストを作ることができます。
+
+### MIDIファイルをアプリケーションに取り込む
+MIDIファイルをドラッグ＆ドロップでアプリケーションに追加します。
+
+フォルダをドラッグ＆ドロップした場合は、フォルダの階層は維持された状態でアプリケーションに追加されます。
+<p align="right">
+<img width="600" height="554" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/100.png" />
+</p>
+
+取り込んだファイルのリストは、アプリケーション上でFinderのように見ることができます。
+
+ウィンドウ右上の「SMFフォルダ」ボタンを押すと、取り込んだファイルが保存されている場所をFinderで開くことができます。
+
+MIDIファイル、フォルダはアプリケーションへのドラッグ＆ドロップでなく、Finder上で追加・削除してもアプリケーションに反映されます。
+
+<p align="right">
+<img width="600" height="480" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/200.png" />
+</p>
+
+#### 取り込んだファイルの編集
+取り込んだファイルはFinder上で移動・削除、フォルダ作成、ファイル名変更が可能ですが、アプリケーション上でも同じように編集ができます。
+
+ファイルの移動はドラッグ＆ドロップで可能です。
+
+以下の操作は「コントロール + クリック」、または「右クリック」でコンテキスト・メニューが現れます。
+
+- フォルダ作成
+- ファイル・フォルダの名称変更
+- ファイル・フォルダの削除
+<p align="right">
+<img width="600" height="480" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/250.png" />
+</p>
+
+
+### MIDIデバイスの指定
+ウィンドウ右上の「MIDI」ボタンを押すと、Macに接続されているMIDIデバイスをポップアップのリストから選ぶことができます。
+
+<p align="right">
+<img width="600" height="436" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/300.png" />
+</p>
+
+### MIDIファイルを再生する
+再生したいファイルを選択し、再生ボタンを押すとMIDIファイルが再生されます。
+
+<p align="right">
+<img width="600" height="524" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/400.png" />
+</p>
+
+### 再生コントロール
+
+<p align="center">
+<img width="400" height="240" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/500.png" />
+</p>
+
+ボタンは使用できるものだけがハイライトされます。
+
+再生しているファイル名が再生コントロール幅に収まらない場合は、スクロールしてファイル名を表示します。
+
+再生タイプ表示は「1曲再生」と「ループ再生」の二つがあります。
+
+「すべてのSMF」で再生した場合は1曲再生のみです。
+
+ループ再生したい場合は「プレイリスト」を作ります。
+
+## プレイリスト
