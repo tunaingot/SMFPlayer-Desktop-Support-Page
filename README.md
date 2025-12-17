@@ -20,7 +20,7 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 
 フォルダをドラッグ＆ドロップした場合は、フォルダの階層は維持された状態でアプリケーションに追加されます。
 <p align="right">
-<img width="600" height="554" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/100.png" />
+<img width="600" height="554" alt="image" src="images/100.png" />
 </p>
 
 取り込んだファイルのリストは、アプリケーション上でFinderのように見ることができます。
@@ -30,7 +30,7 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 MIDIファイル、フォルダはアプリケーションへのドラッグ＆ドロップでなく、Finder上で追加・削除してもアプリケーションに反映されます。
 
 <p align="right">
-<img width="600" height="480" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/200.png" />
+<img width="600" height="480" alt="image" src="images/200.png" />
 </p>
 
 #### 取り込んだファイルの編集
@@ -44,7 +44,7 @@ MIDIファイル、フォルダはアプリケーションへのドラッグ＆�
 - ファイル・フォルダの名称変更
 - ファイル・フォルダの削除
 <p align="right">
-<img width="600" height="480" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/250.png" />
+<img width="600" height="480" alt="image" src="images/250.png" />
 </p>
 
 
@@ -52,20 +52,20 @@ MIDIファイル、フォルダはアプリケーションへのドラッグ＆�
 ウィンドウ右上の「MIDI」ボタンを押すと、Macに接続されているMIDIデバイスをポップアップのリストから選ぶことができます。
 
 <p align="right">
-<img width="600" height="436" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/300.png" />
+<img width="600" height="436" alt="image" src="images/300.png" />
 </p>
 
 ### MIDIファイルを再生する
 再生したいファイルを選択し、再生ボタンを押すとMIDIファイルが再生されます。
 
 <p align="right">
-<img width="600" height="524" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/400.png" />
+<img width="600" height="524" alt="image" src="images/400.png" />
 </p>
 
 ### 再生コントロール
 
 <p align="center">
-<img width="400" height="240" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/500.png" />
+<img width="400" height="240" alt="image" src="images/500.png" />
 </p>
 
 ボタンは使用できるものだけがハイライトされます。
