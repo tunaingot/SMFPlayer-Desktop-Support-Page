@@ -20,7 +20,7 @@ Drag and drop MIDI files into the application.
 
 When you drag and drop a folder, it will be added to the application while preserving its folder hierarchy.
 <p align="center">
-<img width="600" height="554" alt="image" src="images/100.png" />
+<img width="600" height="554" alt="image" src="images/100en.png" />
 </p>
 
 - The list of imported files can be viewed in the application like the Finder.
@@ -28,7 +28,7 @@ When you drag and drop a folder, it will be added to the application while prese
 - MIDI files and folders added or removed in Finder will be reflected in the application, even if they are not dragged and dropped into the application.
 
 <p align="center">
-<img width="600" height="480" alt="image" src="images/200.png" />
+<img width="600" height="480" alt="image" src="images/200en.png" />
 </p>
 
 #### Editing imported files
@@ -43,7 +43,7 @@ The following operations will display a context menu when you press Control + cl
 - Renaming files and folders
 - Deleting files and folders
 <p align="center">
-<img width="600" height="480" alt="image" src="images/250.png" />
+<img width="600" height="480" alt="image" src="images/250en.png" />
 </p>
 
 - You can also create folders via the menu bar: “File > New > New Folder,” and a keyboard shortcut is assigned.
@@ -56,21 +56,21 @@ Pressing the “MIDI” button in the upper-right corner of the window displays 
 Please select the device to which you wish to send MIDI data.
 
 <p align="center">
-<img width="600" height="436" alt="image" src="images/300.png" />
+<img width="600" height="436" alt="image" src="images/300en.png" />
 </p>
 
 ### Play MIDI files
 Select the file you want to play, then press the play button to play the MIDI file.
 
 <p align="center">
-<img width="600" height="524" alt="image" src="images/400.png" />
+<img width="600" height="524" alt="image" src="images/400en.png" />
 </p>
 
 ### Playback Controls
 Only buttons that can be used are highlighted.
 
 <p align="center">
-<img width="400" height="240" alt="image" src="images/500.png" />
+<img width="400" height="240" alt="image" src="images/500en.png" />
 </p>
 
 - If the filename being played does not fit within the playback control width, scroll to display the filename.

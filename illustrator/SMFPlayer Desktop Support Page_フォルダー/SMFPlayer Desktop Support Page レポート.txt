@@ -6,7 +6,7 @@
 カラーモード : CMYK カラー
 カラープロファイル : Japan Color 2001 Coated
 定規の単位 : ミリ
-アートボードのサイズ : 583.9638 mm x 603.817 mm
+アートボードのサイズ : 205.6584 mm x 353.823 mm
 アウトライン画面で配置した画像を表示 : オフ
 代替フォントを強調表示 : オフ
 代替字形を強調表示 : オフ
@@ -37,7 +37,61 @@
 -----------------------------------------------------------------------------
 リンクされた画像 :
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 9.06.01.png
+/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 9.55.26.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12500K, 2000 x 1600 pixel
+寸法 : 470.701 x 376.561 point
+解像度 : 305.927 x 305.927 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.01.04.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 13387K, 2142 x 1600 pixel
+寸法 : 470.701 x 376.561 point
+解像度 : 327.648 x 305.927 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.11.21.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 13387K, 2142 x 1600 pixel
+寸法 : 470.701 x 376.561 point
+解像度 : 327.648 x 305.927 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.13.45.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 13387K, 2142 x 1600 pixel
+寸法 : 468.588 x 373.181 point
+解像度 : 329.125 x 308.698 pixel/inch
+
+
+/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 8.57.33.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12500K, 2000 x 1600 pixel
+寸法 : 470.701 x 376.561 point
+解像度 : 305.927 x 305.927 pixel/inch
+
+
+/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 10.02.49.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12500K, 2000 x 1600 pixel
+寸法 : 466.476 x 373.181 point
+解像度 : 308.698 x 308.698 pixel/inch
+
+
+/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 9.06.01.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
@@ -46,7 +100,16 @@
 解像度 : 353.986 x 353.986 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 8.57.33.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.17.02.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 15472K, 2430 x 1630 pixel
+寸法 : 465.374 x 331.132 point
+解像度 : 375.956 x 354.421 pixel/inch
+
+
+/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 9.37.09.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
@@ -55,16 +118,16 @@
 解像度 : 305.927 x 305.927 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 9.37.09.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.21.48.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 12500K, 2000 x 1600 pixel
+サイズ : 13387K, 2142 x 1600 pixel
 寸法 : 470.701 x 376.561 point
-解像度 : 305.927 x 305.927 pixel/inch
+解像度 : 327.648 x 305.927 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 9.45.25.png
+/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 9.45.25.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
@@ -73,19 +136,10 @@
 解像度 : 185.293 x 185.293 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 9.55.26.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.26.32.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 12500K, 2000 x 1600 pixel
-寸法 : 470.701 x 376.561 point
-解像度 : 305.927 x 305.927 pixel/inch
-
-
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 10.02.49.png
-形状 : 透明 RGB
-ビット/ピクセル : 32
-チャンネル : 4
-サイズ : 12500K, 2000 x 1600 pixel
-寸法 : 466.476 x 373.181 point
-解像度 : 308.698 x 308.698 pixel/inch
+サイズ : 441K, 538 x 210 pixel
+寸法 : 222.474 x 86.839 point
+解像度 : 174.115 x 174.115 pixel/inch
