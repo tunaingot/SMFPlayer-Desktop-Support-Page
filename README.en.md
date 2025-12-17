@@ -3,92 +3,91 @@
 [日本語](README.md)
 
 ## Overview
-このアプリはSMF(Standard MIDI File)を読み込み、Macに接続されたMIDI機器へMIDIデータを送るためのアプリケーションです。
+This application reads SMF (Standard MIDI File) and sends MIDI data to MIDI devices connected to your Mac.
 
 ## Features
-1. MIDIデータはアプリケーションが利用するストレージ領域にコピーして利用するので、オリジナルデータを編集・削除することはありません
-2. 鍵盤表示で演奏情報をグラフィカルに表示します
-3. お気に入りを集めたプレイリストを作ることができます
+1. MIDI data is copied to the storage area used by the application for processing, so the original data is never edited or deleted.
+2. Displays performance information graphically on the keyboard display.
+3. You can create a playlist featuring your favorites.
 
 ## Usage
-本アプリケーションをダウンロードし、初めて使うときは利用したいMIDIファイルを本アプリケーションに追加します。
+When you download this application and use it for the first time, add the MIDI file you want to use to this application.
 
-その後は再生したり、お気に入りを集めたプレイリストを作ることができます。
+After that, you can play them back or create a playlist of your favorites.
 
-### MIDIファイルをアプリケーションに取り込む
-MIDIファイルをドラッグ＆ドロップでアプリケーションに追加します。
+### Import MIDI files into the application
+Drag and drop MIDI files into the application.
 
-フォルダをドラッグ＆ドロップした場合は、フォルダの階層は維持された状態でアプリケーションに追加されます。
+When you drag and drop a folder, it will be added to the application while preserving its folder hierarchy.
 <p align="center">
 <img width="600" height="554" alt="image" src="images/100.png" />
 </p>
 
-- 取り込んだファイルのリストは、アプリケーション上でFinderのように見ることができます
-- ウィンドウ右上の「SMFフォルダ」ボタンを押すと、取り込んだファイルが保存されている場所をFinderで開くことができます
-- MIDIファイル、フォルダはアプリケーションへのドラッグ＆ドロップでなく、Finder上で追加・削除してもアプリケーションに反映されます
+- The list of imported files can be viewed in the application like the Finder.
+- Clicking the “SMF Folder” button in the upper-right corner of the window will open the location where imported files are saved in Finder.
+- MIDI files and folders added or removed in Finder will be reflected in the application, even if they are not dragged and dropped into the application.
 
 <p align="center">
 <img width="600" height="480" alt="image" src="images/200.png" />
 </p>
 
-#### 取り込んだファイルの編集
-取り込んだファイルはFinder上で移動・削除、フォルダ作成、ファイル名変更が可能ですが、アプリケーション上でも同じように編集ができます。
+#### Editing imported files
+Imported files can be moved, deleted, have folders created for them, or have their names changed in Finder, but they can also be edited in the same way within the application.
 
-ファイルの移動はドラッグ＆ドロップで可能です。
+File movement is possible via drag and drop.
 
-以下の操作は「コントロール + クリック」、または「右クリック」でコンテキスト・メニューが現れます。
+The following operations will display a context menu when you press Control + click or right-click.
 
-- ファイルをFinderで表示
-- フォルダ作成
-- ファイル・フォルダの名称変更
-- ファイル・フォルダの削除
+- Display the file in Finder
+- Create folder
+- Renaming files and folders
+- Deleting files and folders
 <p align="center">
 <img width="600" height="480" alt="image" src="images/250.png" />
 </p>
 
-- フォルダ作成はメニューバーの「ファイル＞新規＞新規フォルダ」でも可能で、ショートカットも割り当てられています
-- ファイルの削除はメニューバーの「編集＞削除」でも可能で、ショートカットも割り当てられています
-- ファイル・フォルダの名称変更は、リストをクリックすると編集可能状態になります
+- You can also create folders via the menu bar: “File > New > New Folder,” and a keyboard shortcut is assigned.
+- You can also delete files via the menu bar's “Edit > Delete” option, and a keyboard shortcut is assigned.
+- To rename files or folders, click the list to enable editing.
 
-### MIDIデバイスの指定
-ウィンドウ右上の「MIDI」ボタンを押すと、Macに接続されているMIDIデバイスがポップアップリストで表示されます。
+### Selecting a MIDI Device
+Pressing the “MIDI” button in the upper-right corner of the window displays a pop-up list of MIDI devices connected to your Mac.
 
-MIDIデータを送信したいデバイスを選択してください。
+Please select the device to which you wish to send MIDI data.
 
 <p align="center">
 <img width="600" height="436" alt="image" src="images/300.png" />
 </p>
 
-### MIDIファイルを再生する
-再生したいファイルを選択し、再生ボタンを押すとMIDIファイルが再生されます。
+### Play MIDI files
+Select the file you want to play, then press the play button to play the MIDI file.
 
 <p align="center">
 <img width="600" height="524" alt="image" src="images/400.png" />
 </p>
 
-### 再生コントロール
-ボタンは使用できるものだけがハイライトされます。
-
+### Playback Controls
+Only buttons that can be used are highlighted.
 
 <p align="center">
 <img width="400" height="240" alt="image" src="images/500.png" />
 </p>
 
-- 再生しているファイル名が再生コントロール幅に収まらない場合は、スクロールしてファイル名を表示します
-- 再生タイプ表示は「1曲再生」と「ループ再生」の二つがあります
-- 「すべてのSMF」で再生した場合は1曲再生のみです
-- ループ再生したい場合は「プレイリスト」を作ります
+- If the filename being played does not fit within the playback control width, scroll to display the filename.
+- There are two playback modes: “Single Play” and “Loop Play”.
+- When played using “All SMF,” only one song will be played.
+- To play in a loop, create a “playlist”.
 
 ## Playlist
-### 新規プレイリスト
-### プレイリストに曲を追加する
-### プレイリストの編集
-#### 曲順の変更
-#### プレイリストの名称変更
-#### プレイリストの並べ替え
-#### プレイリストの削除
+### Create Playlist
+### Add songs to the playlist
+### Playlist Editing
+#### Change in song order
+#### Renaming a Playlist
+#### Reordering Playlists
+#### Deleting Playlists
 
 ## Setting
-### 再生機器
-### ベロシティ表示
-### ファイル名を短縮表示
+### Playback Device
+### Velocity Display
+### Filename Reduce
