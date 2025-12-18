@@ -145,7 +145,7 @@ Finderから取り込んだMIDIファイルから、お気に入りを集める�
 ウィンドウ右上の「設定」ボタンをクリックすると、設定内容を表示するポップオーバーが表示されます。
 
 <p align="center">
-<img width="300" height="200" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/1200.png" />
+<img width="300" height="200" alt="image" src="images/1200.png" />
 </p>
 
 ### 再生機器
@@ -174,5 +174,5 @@ Macに接続されているMIDI機器が電子ピアノの場合、必要であ�
 狭い幅で多くの曲情報を表示したい時に便利です。
 
 <p align="center">
-<img width="300" height="218" alt="image" src="/Users/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/images/1300.png" />
+<img width="300" height="218" alt="image" src="/images/1300.png" />
 </p>
