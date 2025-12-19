@@ -20,7 +20,7 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 
 フォルダをドラッグ＆ドロップした場合は、フォルダの階層は維持された状態でアプリケーションに追加されます。
 <p align="center">
-<img width="300" height="277" alt="image" src="images/100.png" />
+<img width="300" height="277" alt="image" src="images/101.png" />
 </p>
 
 - 取り込んだファイルのリストは、アプリケーション上でFinderのように見ることができます
@@ -28,7 +28,7 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 - MIDIファイル、フォルダはアプリケーションへのドラッグ＆ドロップでなく、Finder上で追加・削除してもアプリケーションに反映されます
 
 <p align="center">
-<img width="300" height="240" alt="image" src="images/200.png" />
+<img width="300" height="240" alt="image" src="images/201.png" />
 </p>
 
 #### 取り込んだファイルの編集
@@ -43,7 +43,7 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 - ファイル・フォルダの名称変更
 - ファイル・フォルダの削除
 <p align="center">
-<img width="300" height="240" alt="image" src="images/250.png" />
+<img width="300" height="240" alt="image" src="images/251.png" />
 </p>
 
 - フォルダ作成はメニューバーの「ファイル＞新規＞新規フォルダ」でも可能で、ショートカットも割り当てられています
@@ -56,39 +56,36 @@ MIDIファイルをドラッグ＆ドロップでアプリケーションに追�
 MIDIデータを送信したいデバイスを選択してください。
 
 <p align="center">
-<img width="300" height="218" alt="image" src="images/300.png" />
+<img width="300" height="218" alt="image" src="images/301.png" />
 </p>
 
 ### MIDIファイルを再生する
 再生したいファイルを選択し、再生ボタンを押すとMIDIファイルが再生されます。
 
 <p align="center">
-<img width="300" height="262" alt="image" src="images/400.png" />
+<img width="300" height="262" alt="image" src="images/401.png" />
 </p>
 
 ### 再生コントロール
-ボタンは使用できるものだけがハイライトされます。
 
 <p align="center">
-<img width="200" height="120" alt="image" src="images/500.png" />
+<img width="300" height="141" alt="image" src="images/501.png" />
 </p>
 
 - 再生しているファイル名が再生コントロール幅に収まらない場合は、スクロールしてファイル名を表示します
-- 再生タイプ表示は「1曲再生」と「ループ再生」の二つがあります
-- 「すべてのSMF」で再生した場合は1曲再生のみです
-- ループ再生したい場合は「プレイリスト」を作ります
+- リピート再生ボタンが有効なときは、リストの最後まで再生すると、リストの先頭まで戻って再生を続けます
+- フォワードボタン、リワインドボタンで再生中の曲の前後の曲へ移動することができます
 
 ## プレイリスト
 Finderから取り込んだMIDIファイルから、お気に入りを集める「プレイリスト」を作ることができます。
 
-プレイリストに入れた曲を再生すると、再生を停止するまでループ再生をします。
 ### 新規プレイリスト
 サイドバー上でコンテキスト・メニューが表示されます。
 
 「新規プレイリスト」を選択すると、新しいプレイリストが作られます。
 
 <p align="center">
-<img width="300" height="200" alt="image" src="images/600.png" />
+<img width="300" height="200" alt="image" src="images/601.png" />
 </p>
 
 また、「ファイル＞新規＞新規プレイリスト」でも新しいプレイリストを作ることができます。
@@ -99,10 +96,10 @@ Finderから取り込んだMIDIファイルから、お気に入りを集める�
 表示されたファイルのリストからプレイリストに追加したい曲を選択し、追加したいプレイリストにドラッグ＆ドロップします。
 
 <p align="center">
-<img width="300" height="200" alt="image" src="images/700.png" />
+<img width="300" height="200" alt="image" src="images/701.png" />
 </p>
 
-すべてのSMFのリストからファイル、フォルダを選択してプレイリストにドラッグ＆ドロップできます。
+「すべてのSMF」のリストからファイル、フォルダを選択してプレイリストにドラッグ＆ドロップできます。
 
 フォルダをドラッグ＆ドロップした場合、フォルダの中にあるすべてのファイルが追加されますが、ディレクトリ階層は無くなります。
 
@@ -110,13 +107,13 @@ Finderから取り込んだMIDIファイルから、お気に入りを集める�
 #### 曲順の変更
 順番を変更したいファイルを選択し、ドラッグ＆ドロップで入れ替えることができます。
 <p align="center">
-<img width="300" height="200" alt="image" src="images/800.png" />
+<img width="300" height="200" alt="image" src="images/801.png" />
 </p>
 
 #### 曲の削除
 削除したい曲を選択し、コンテキストメニューから「リストから削除」を選択します。
 <p align="center">
-<img width="300" height="200" alt="image" src="images/850.png" />
+<img width="300" height="200" alt="image" src="images/851.png" />
 </p>
 
 #### プレイリストの名称変更
@@ -124,28 +121,27 @@ Finderから取り込んだMIDIファイルから、お気に入りを集める�
 
 新しいプレイリスト名称を入力して、returnまたはenterキーで編集を終了します。
 <p align="center">
-<img width="300" height="200" alt="image" src="images/900.png" />
+<img width="300" height="200" alt="image" src="images/901.png" />
 </p>
 
 #### プレイリストの並べ替え
 順番を変更したいプレイリストを選択し、ドラッグ＆ドロップで入れ替えることができます。
 
 <p align="center">
-<img width="300" height="200" alt="image" src="images/1000.png" />
+<img width="300" height="200" alt="image" src="images/1001.png" />
 </p>
-
 #### プレイリストの削除
 削除したいプレイリストを選択し、コンテキスト・メニューから「リストから削除」を選択します。
 
 <p align="center">
-<img width="300" height="200" alt="image" src="images/1100.png" />
+<img width="300" height="200" alt="image" src="images/1101.png" />
 </p>
 
 ## 設定
 ウィンドウ右上の「設定」ボタンをクリックすると、設定内容を表示するポップオーバーが表示されます。
 
 <p align="center">
-<img width="300" height="200" alt="image" src="images/1200.png" />
+<img width="300" height="200" alt="image" src="images/1201.png" />
 </p>
 
 ### 再生機器
@@ -159,11 +155,16 @@ Macに接続されているMIDI機器が電子ピアノの場合、必要であ�
 しかし、そうなっていない電子ピアノの場合は、MIDIチャンネル1のデータしか再生されません。
 
 そこで、この設定にしておくと、SMFPlayerはすべてのMIDIデータをチャンネル1に変換して送信します。
+#### MIDI音源
+SMFPlayerは何のデータ変換もせず、MIDI機器にMIDIデータを送信します。
+
+通常はこの設定にしておけば良いでしょう。
 
 ### ベロシティ表示
 鍵盤を押す強さの表示方法を選べます。
 
 「鍵盤の濃さ」を選ぶと、鍵盤を押した強さに応じて色の濃さが変わります。
+
 「なし」では常に一番濃い色で表示されます。
 
 ### ファイル名を短縮表示
@@ -174,5 +175,5 @@ Macに接続されているMIDI機器が電子ピアノの場合、必要であ�
 狭い幅で多くの曲情報を表示したい時に便利です。
 
 <p align="center">
-<img width="300" height="218" alt="image" src="/images/1300.png" />
+<img width="300" height="218" alt="image" src="images/1300.png" />
 </p>

@@ -20,7 +20,7 @@ Drag and drop MIDI files into the application.
 
 When you drag and drop a folder, it will be added to the application while preserving its folder hierarchy.
 <p align="center">
-<img width="600" height="554" alt="image" src="images/100en.png" />
+<img width="300" height="277" alt="image" src="images/101en.png" />
 </p>
 
 - The list of imported files can be viewed in the application like the Finder.
@@ -28,7 +28,7 @@ When you drag and drop a folder, it will be added to the application while prese
 - MIDI files and folders added or removed in Finder will be reflected in the application, even if they are not dragged and dropped into the application.
 
 <p align="center">
-<img width="600" height="480" alt="image" src="images/200en.png" />
+<img width="300" height="240" alt="image" src="images/201en.png" />
 </p>
 
 #### Editing imported files
@@ -43,7 +43,7 @@ The following operations will display a context menu when you press Control + cl
 - Renaming files and folders
 - Deleting files and folders
 <p align="center">
-<img width="600" height="480" alt="image" src="images/250en.png" />
+<img width="300" height="240" alt="image" src="images/251en.png" />
 </p>
 
 - You can also create folders via the menu bar: “File > New > New Folder,” and a keyboard shortcut is assigned.
@@ -56,38 +56,127 @@ Pressing the “MIDI” button in the upper-right corner of the window displays 
 Please select the device to which you wish to send MIDI data.
 
 <p align="center">
-<img width="600" height="436" alt="image" src="images/300en.png" />
+<img width="300" height="219" alt="image" src="images/301en.png" />
 </p>
 
 ### Play MIDI files
 Select the file you want to play, then press the play button to play the MIDI file.
 
 <p align="center">
-<img width="600" height="524" alt="image" src="images/400en.png" />
+<img width="300" height="262" alt="image" src="images/401en.png" />
 </p>
 
 ### Playback Controls
 Only buttons that can be used are highlighted.
 
 <p align="center">
-<img width="400" height="240" alt="image" src="images/500en.png" />
+<img width="300" height="141" alt="image" src="images/501en.png" />
 </p>
 
 - If the filename being played does not fit within the playback control width, scroll to display the filename.
-- There are two playback modes: “Single Play” and “Loop Play”.
-- When played using “All SMF,” only one song will be played.
-- To play in a loop, create a “playlist”.
+- When the repeat playback button is enabled, playback will resume from the beginning of the list after reaching the end.
+- Use the forward and rewind buttons to move to the previous or next track while playing.
 
 ## Playlist
+You can create a “playlist” to collect your favorite tracks from MIDI files imported from Finder.
+
 ### Create Playlist
+A context menu appears on the sidebar.
+
+Selecting “New Playlist” will create a new playlist.
+
+<p align="center">
+<img width="300" height="235" alt="image" src="images/601en.png" />
+</p>
+
+You can also create a new playlist by selecting “File > New > New Playlist.”
+
 ### Add songs to the playlist
+Click “All SMF” in the sidebar to view the files imported into the application.
+
+Select the songs you want to add to your playlist from the displayed file list, then drag and drop them into the playlist you want to add them to.
+
+<p align="center">
+<img width="300" height="235" alt="image" src="images/701en.png" />
+</p>
+
+You can select files and folders from the “All SMF” list and drag and drop them into the playlist.
+
+When you drag and drop a folder, all files within it will be added, but the directory structure will be lost.
+
 ### Playlist Editing
 #### Change in song order
+Select the files you want to reorder, then drag and drop them to swap their positions.
+
+<p align="center">
+<img width="300" height="235" alt="image" src="images/801en.png" />
+</p>
+
+#### Delete songs
+Select the song you want to delete, then choose “Remove” from the context menu.
+
+<p align="center">
+<img width="300" height="235" alt="image" src="images/851en.png" />
+</p>
+
 #### Renaming a Playlist
+Clicking the playlist name will make it editable.
+
+Enter a new playlist name, then press the Return or Enter key to finish editing.
+
+<p align="center">
+<img width="300" height="235" alt="image" src="images/901en.png" />
+</p>
+
 #### Reordering Playlists
+Select the playlist whose order you want to change, then drag and drop to rearrange it.。
+
+<p align="center">
+<img width="300" height="235" alt="image" src="images/1001en.png" />
+</p>
+
 #### Deleting Playlists
+Select the playlist you want to delete, then choose “Remove” from the context menu.
+
+<p align="center">
+<img width="300" height="235" alt="image" src="images/1101en.png" />
+</p>
 
 ## Setting
+Clicking the “Setting” button in the upper-right corner of the window displays a popover showing the settings.
+
+<p align="center">
+<img width="300" height="235" alt="image" src="images/1201en.png" />
+</p>
+
 ### Playback Device
+#### Digital Piano
+If the MIDI device connected to your Mac is a digital piano, select it if necessary.
+
+Some MIDI files for piano pieces are created by splitting the harmonies across multiple channels.
+
+Most digital pianos treat any MIDI channel they transmit on as MIDI channel 1.
+
+However, if the digital piano is not configured this way, only data from MIDI channel 1 will be played.
+
+Therefore, with this setting, SMFPlayer converts all MIDI data to channel 1 and sends it.
+#### MIDI Tone Module
+SMFPlayer sends MIDI data to MIDI tone module without performing any data conversion.
+
 ### Velocity Display
+You can choose how to display the strength of your keystrokes.
+
+Selecting “Keyboard Intensity” changes the color intensity based on how hard you press the keys.
+
+“None” is always displayed in the bright color.
+
 ### Filename Reduce
+Mainly use it for classical music.
+
+When this setting's checkbox is selected, if the directory name where the file is located is included at the beginning of the filename, the included string will be omitted from display.
+
+This is useful when you want to display a lot of song information in a narrow width.
+
+<p align="center">
+<img width="300" height="200" alt="image" src="images/1300en.png" />
+</p>

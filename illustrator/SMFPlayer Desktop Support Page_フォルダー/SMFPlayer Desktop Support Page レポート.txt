@@ -37,109 +37,289 @@
 -----------------------------------------------------------------------------
 リンクされた画像 :
 
-/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 9.55.26.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.17.24.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 12500K, 2000 x 1600 pixel
-寸法 : 470.701 x 376.561 point
-解像度 : 305.927 x 305.927 pixel/inch
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 469.756 x 367.355 point
+解像度 : 313.593 x 313.593 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.01.04.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.25.37.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 13387K, 2142 x 1600 pixel
-寸法 : 470.701 x 376.561 point
-解像度 : 327.648 x 305.927 pixel/inch
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 468.811 x 366.616 point
+解像度 : 314.225 x 314.225 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.11.21.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.20.40.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 13387K, 2142 x 1600 pixel
-寸法 : 470.701 x 376.561 point
-解像度 : 327.648 x 305.927 pixel/inch
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 470.701 x 368.094 point
+解像度 : 312.963 x 312.963 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.13.45.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.28.03.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 13387K, 2142 x 1600 pixel
-寸法 : 468.588 x 373.181 point
-解像度 : 329.125 x 308.698 pixel/inch
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 469.694 x 367.307 point
+解像度 : 313.634 x 313.634 pixel/inch
 
 
-/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 8.57.33.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.22.52.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 12500K, 2000 x 1600 pixel
-寸法 : 470.701 x 376.561 point
-解像度 : 305.927 x 305.927 pixel/inch
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 468.588 x 366.442 point
+解像度 : 314.374 x 314.374 pixel/inch
 
 
-/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 10.02.49.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.31.27.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 12500K, 2000 x 1600 pixel
-寸法 : 466.476 x 373.181 point
-解像度 : 308.698 x 308.698 pixel/inch
+サイズ : 12819K, 2046 x 1604 pixel
+寸法 : 463.33 x 363.237 point
+解像度 : 317.942 x 317.942 pixel/inch
 
 
-/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 9.06.01.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.26.14.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 14550K, 2288 x 1628 pixel
-寸法 : 465.374 x 331.132 point
-解像度 : 353.986 x 353.986 pixel/inch
+サイズ : 16210K, 2334 x 1778 pixel
+寸法 : 470.33 x 358.289 point
+解像度 : 357.298 x 357.298 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.17.02.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.34.54.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 15472K, 2430 x 1630 pixel
-寸法 : 465.374 x 331.132 point
-解像度 : 375.956 x 354.421 pixel/inch
+サイズ : 14032K, 2146 x 1674 pixel
+寸法 : 465.374 x 363.018 point
+解像度 : 332.017 x 332.017 pixel/inch
 
 
-/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 9.37.09.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.42.36.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 12500K, 2000 x 1600 pixel
-寸法 : 470.701 x 376.561 point
-解像度 : 305.927 x 305.927 pixel/inch
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 470.701 x 368.094 point
+解像度 : 312.963 x 312.963 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.21.48.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.37.25.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 13387K, 2142 x 1600 pixel
-寸法 : 470.701 x 376.561 point
-解像度 : 327.648 x 305.927 pixel/inch
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 470.701 x 368.094 point
+解像度 : 312.963 x 312.963 pixel/inch
 
 
-/ユーザ/hiroshi/Developer/distribute-on-GitHub/SMFPlayer-Desktop-Support-Page/illustrator/SMFPlayer Desktop Support Page_フォルター/Links/スクリーンショット 2025-12-17 9.45.25.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.45.01.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 566K, 690 x 210 pixel
-寸法 : 268.116 x 81.601 point
-解像度 : 185.293 x 185.293 pixel/inch
+サイズ : 519K, 700 x 190 pixel
+寸法 : 288.198 x 78.225 point
+解像度 : 174.88 x 174.88 pixel/inch
 
 
-/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-17 11.26.32.png
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.39.53.png
 形状 : 透明 RGB
 ビット/ピクセル : 32
 チャンネル : 4
-サイズ : 441K, 538 x 210 pixel
-寸法 : 222.474 x 86.839 point
-解像度 : 174.115 x 174.115 pixel/inch
+サイズ : 534K, 712 x 192 pixel
+寸法 : 283.467 x 76.441 point
+解像度 : 180.846 x 180.846 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.51.55.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12848K, 2048 x 1606 pixel
+寸法 : 470.701 x 369.114 point
+解像度 : 313.269 x 313.269 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.51.31.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 470.701 x 368.094 point
+解像度 : 312.963 x 312.963 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.59.27.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12848K, 2048 x 1606 pixel
+寸法 : 469.527 x 368.193 point
+解像度 : 314.052 x 314.052 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.54.48.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 469.527 x 367.176 point
+解像度 : 313.746 x 313.746 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.03.29.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12848K, 2048 x 1606 pixel
+寸法 : 469.527 x 368.193 point
+解像度 : 314.052 x 314.052 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 19.57.55.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 469.527 x 367.176 point
+解像度 : 313.746 x 313.746 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.07.17.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12848K, 2048 x 1606 pixel
+寸法 : 469.527 x 368.193 point
+解像度 : 314.052 x 314.052 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.02.59.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 469.527 x 367.176 point
+解像度 : 313.746 x 313.746 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-18 15.12.23.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 14937K, 2390 x 1600 pixel
+寸法 : 470.701 x 315.113 point
+解像度 : 365.583 x 365.583 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.11.10.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 465.275 x 363.851 point
+解像度 : 316.613 x 316.613 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-18 15.42.54.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 2781K, 668 x 1066 pixel
+寸法 : 198.898 x 317.402 point
+解像度 : 241.813 x 241.813 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-18 15.43.24.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 2781K, 668 x 1066 pixel
+寸法 : 197.463 x 315.113 point
+解像度 : 243.569 x 243.569 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.10.27.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12848K, 2048 x 1606 pixel
+寸法 : 466.341 x 365.695 point
+解像度 : 316.198 x 316.198 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 20.06.55.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 470.701 x 368.094 point
+解像度 : 312.963 x 312.963 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.22.05.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12848K, 2048 x 1606 pixel
+寸法 : 469.527 x 368.193 point
+解像度 : 314.052 x 314.052 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.13.46.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12848K, 2048 x 1606 pixel
+寸法 : 466.202 x 365.586 point
+解像度 : 316.292 x 316.292 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.36.53.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12787K, 2046 x 1600 pixel
+寸法 : 456.614 x 357.078 point
+解像度 : 322.618 x 322.618 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.43.41.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 3048K, 732 x 1066 pixel
+寸法 : 197.463 x 287.562 point
+解像度 : 266.905 x 266.905 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.44.11.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 3048K, 732 x 1066 pixel
+寸法 : 193.999 x 282.518 point
+解像度 : 271.671 x 271.671 pixel/inch
+
+
+/ユーザ/hiroshi/ライブラリ/CloudStorage/Dropbox/スクリーンショット/スクリーンショット 2025-12-19 21.47.47.png
+形状 : 透明 RGB
+ビット/ピクセル : 32
+チャンネル : 4
+サイズ : 12803K, 2046 x 1602 pixel
+寸法 : 469.527 x 367.635 point
+解像度 : 313.746 x 313.746 pixel/inch
