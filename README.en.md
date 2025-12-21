@@ -20,7 +20,7 @@ Drag and drop MIDI files into the application.
 
 When you drag and drop a folder, it will be added to the application while preserving its folder hierarchy.
 <p align="center">
-<img width="300" height="277" alt="image" src="images/101en.png" />
+<img width="300" height="282" alt="image" src="images/100en.png" />
 </p>
 
 - The list of imported files can be viewed in the application like the Finder.
@@ -28,7 +28,7 @@ When you drag and drop a folder, it will be added to the application while prese
 - MIDI files and folders added or removed in Finder will be reflected in the application, even if they are not dragged and dropped into the application.
 
 <p align="center">
-<img width="300" height="240" alt="image" src="images/201en.png" />
+<img width="300" height="246" alt="image" src="images/200en.png" />
 </p>
 
 #### Editing imported files
@@ -43,7 +43,7 @@ The following operations will display a context menu when you press Control + cl
 - Renaming files and folders
 - Deleting files and folders
 <p align="center">
-<img width="300" height="240" alt="image" src="images/251en.png" />
+<img width="300" height="246" alt="image" src="images/250en.png" />
 </p>
 
 - You can also create folders via the menu bar: “File > New > New Folder,” and a keyboard shortcut is assigned.
@@ -56,21 +56,21 @@ Pressing the “MIDI” button in the upper-right corner of the window displays 
 Please select the device to which you wish to send MIDI data.
 
 <p align="center">
-<img width="300" height="219" alt="image" src="images/301en.png" />
+<img width="300" height="265" alt="image" src="images/300en.png" />
 </p>
 
 ### Play MIDI files
 Select the file you want to play, then press the play button to play the MIDI file.
 
 <p align="center">
-<img width="300" height="262" alt="image" src="images/401en.png" />
+<img width="300" height="260" alt="image" src="images/400en.png" />
 </p>
 
 ### Playback Controls
 Only buttons that can be used are highlighted.
 
 <p align="center">
-<img width="300" height="141" alt="image" src="images/501en.png" />
+<img width="500" height="131" alt="image" src="images/500en.png" />
 </p>
 
 - If the filename being played does not fit within the playback control width, scroll to display the filename.
@@ -86,7 +86,7 @@ A context menu appears on the sidebar.
 Selecting “New Playlist” will create a new playlist.
 
 <p align="center">
-<img width="300" height="235" alt="image" src="images/601en.png" />
+<img width="300" height="246" alt="image" src="images/600en.png" />
 </p>
 
 You can also create a new playlist by selecting “File > New > New Playlist.”
@@ -97,7 +97,7 @@ Click “All SMF” in the sidebar to view the files imported into the applicati
 Select the songs you want to add to your playlist from the displayed file list, then drag and drop them into the playlist you want to add them to.
 
 <p align="center">
-<img width="300" height="235" alt="image" src="images/701en.png" />
+<img width="300" height="246" alt="image" src="images/700en.png" />
 </p>
 
 You can select files and folders from the “All SMF” list and drag and drop them into the playlist.
@@ -109,14 +109,14 @@ When you drag and drop a folder, all files within it will be added, but the dire
 Select the files you want to reorder, then drag and drop them to swap their positions.
 
 <p align="center">
-<img width="300" height="235" alt="image" src="images/801en.png" />
+<img width="300" height="246" alt="image" src="images/800en.png" />
 </p>
 
 #### Delete songs
 Select the song you want to delete, then choose “Remove” from the context menu.
 
 <p align="center">
-<img width="300" height="235" alt="image" src="images/851en.png" />
+<img width="300" height="246" alt="image" src="images/850en.png" />
 </p>
 
 #### Renaming a Playlist
@@ -125,28 +125,28 @@ Clicking the playlist name will make it editable.
 Enter a new playlist name, then press the Return or Enter key to finish editing.
 
 <p align="center">
-<img width="300" height="235" alt="image" src="images/901en.png" />
+<img width="300" height="246" alt="image" src="images/900en.png" />
 </p>
 
 #### Reordering Playlists
 Select the playlist whose order you want to change, then drag and drop to rearrange it.。
 
 <p align="center">
-<img width="300" height="235" alt="image" src="images/1001en.png" />
+<img width="300" height="246" alt="image" src="images/1000en.png" />
 </p>
 
 #### Deleting Playlists
 Select the playlist you want to delete, then choose “Remove” from the context menu.
 
 <p align="center">
-<img width="300" height="235" alt="image" src="images/1101en.png" />
+<img width="300" height="246" alt="image" src="images/1100en.png" />
 </p>
 
 ## Setting
 Clicking the “Setting” button in the upper-right corner of the window displays a popover showing the settings.
 
 <p align="center">
-<img width="300" height="235" alt="image" src="images/1201en.png" />
+<img width="300" height="246" alt="image" src="images/1200en.png" />
 </p>
 
 ### Playback Device
