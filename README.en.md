@@ -74,7 +74,7 @@ Only buttons that can be used are highlighted.
 </p>
 
 - If the filename being played does not fit within the playback control width, scroll to display the filename.
-- When the repeat playback button is enabled, playback will resume from the beginning of the list after reaching the end.
+- The Repeat Mode button lets you choose between Repeat, Repeat One Track, or No Repeat.
 - Use the forward and rewind buttons to move to the previous or next track while playing.
 
 ## Playlist
