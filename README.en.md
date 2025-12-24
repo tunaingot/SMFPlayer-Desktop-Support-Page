@@ -180,3 +180,6 @@ This is useful when you want to display a lot of song information in a narrow wi
 <p align="center">
 <img width="300" height="200" alt="image" src="images/1300en.png" />
 </p>
+
+## Media
+[YouTube (SMFPlayer Desktop Quick Start Guide)](https://youtu.be/ZjoeS2dyPVk)

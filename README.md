@@ -179,3 +179,6 @@ SMFPlayerは何のデータ変換もせず、MIDI機器にMIDIデータを送信
 <p align="center">
 <img width="300" height="218" alt="image" src="images/1300.png" />
 </p>
+
+## メディア
+[YouTube (SMFPlayer Desktop Quick Start Guide)](https://youtu.be/ZjoeS2dyPVk)
