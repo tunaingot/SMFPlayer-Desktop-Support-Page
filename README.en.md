@@ -76,6 +76,7 @@ Only buttons that can be used are highlighted.
 - If the filename being played does not fit within the playback control width, scroll to display the filename.
 - The Repeat Mode button lets you choose between Repeat, Repeat One Track, or No Repeat.
 - Use the forward and rewind buttons to move to the previous or next track while playing.
+- "Control + click" displays the context menu, allowing you to switch to the mini player.
 
 ## Playlist
 You can create a “playlist” to collect your favorite tracks from MIDI files imported from Finder.
