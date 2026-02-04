@@ -9,6 +9,15 @@ This application reads SMF (Standard MIDI File) and sends MIDI data to MIDI devi
 1. MIDI data is copied to the storage area used by the application for processing, so the original data is never edited or deleted.
 2. Displays performance information graphically on the keyboard display.
 3. You can create a playlist featuring your favorites.
+4. You can play SMF files inside ZIP files.
+
+### Support for ZIP files
+Starting with version 3.0.0, you can now play SMF files contained within ZIP files.
+
+The following features and limitations apply:
+
+1. Files other than SMF files are also acceptable.
+2. Please include only one SMF file in the ZIP file.
 
 ## Usage
 When you download this application and use it for the first time, add the MIDI file you want to use to this application.
