@@ -150,6 +150,15 @@ Clicking the “Setting” button in the upper-right corner of the window displa
 <img width="300" height="246" alt="image" src="images/1200en.png" />
 </p>
 
+## Search
+File search functionality has been added starting with version 3.0.0.
+
+You can play search results and add search results to a playlist.
+<p align="center">
+<img width="300" height="221" alt="image" src="images/1250en.png" />
+</p>
+
+
 ### Playback Device
 #### Digital Piano
 If the MIDI device connected to your Mac is a digital piano, select it if necessary.
