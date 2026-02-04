@@ -143,13 +143,6 @@ Select the playlist you want to delete, then choose “Remove” from the contex
 <img width="300" height="246" alt="image" src="images/1100en.png" />
 </p>
 
-## Setting
-Clicking the “Setting” button in the upper-right corner of the window displays a popover showing the settings.
-
-<p align="center">
-<img width="300" height="246" alt="image" src="images/1200en.png" />
-</p>
-
 ## Search
 File search functionality has been added starting with version 3.0.0.
 
@@ -158,6 +151,12 @@ You can play search results and add search results to a playlist.
 <img width="300" height="221" alt="image" src="images/1250en.png" />
 </p>
 
+## Setting
+Clicking the “Setting” button in the upper-right corner of the window displays a popover showing the settings.
+
+<p align="center">
+<img width="300" height="246" alt="image" src="images/1200en.png" />
+</p>
 
 ### Playback Device
 #### Digital Piano
