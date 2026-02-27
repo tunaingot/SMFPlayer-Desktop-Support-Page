@@ -6,10 +6,11 @@
 This application reads SMF (Standard MIDI File) and sends MIDI data to MIDI devices connected to your Mac.
 
 ## Features
-1. MIDI data is copied to the storage area used by the application for processing, so the original data is never edited or deleted.
-2. Displays performance information graphically on the keyboard display.
-3. You can create a playlist featuring your favorites.
-4. You can play SMF files inside ZIP files.
+1. Displays performance information graphically on the keyboard display.
+2. You can create a playlist featuring your favorites.
+3. You can play SMF file inside ZIP file.
+4. You can view document inside ZIP file.
+5. You can enter the song title without changing the file name.
 
 ### Support for ZIP files
 Starting with version 3.0.0, you can now play SMF files contained within ZIP files.
@@ -17,14 +18,23 @@ Starting with version 3.0.0, you can now play SMF files contained within ZIP fil
 The following features and limitations apply:
 
 1. Files other than SMF files are also acceptable.
-2. Please include only one SMF file in the ZIP file.
+2. If there are multiple MIDI files within a ZIP file, only the first file found will be played.
+3. If a ZIP file contains a text file, the "Show Document" option in the context menu becomes available and displays the document's contents in a separate window.
+
+### Changes to File Handling Due to In-App Purchases
+Up to version 4.0.0, files were copied within the application's restricted area.  
+By making an in-app purchase, users can use MIDI files within the specified folder.  
+When you specify cloud storage, you can use the same MIDI files across multiple Macs and share the song titles you've entered.
 
 ## Usage
 When you download this application and use it for the first time, add the MIDI file you want to use to this application.
 
+If you make an in-app purchase, select the folder containing the MIDI files.。
+
 After that, you can play them back or create a playlist of your favorites.
 
-### Import MIDI files into the application
+### When using without in-app purchases
+#### Import MIDI files into the application
 Drag and drop MIDI files into the application.
 
 When you drag and drop a folder, it will be added to the application while preserving its folder hierarchy.
@@ -58,6 +68,27 @@ The following operations will display a context menu when you press Control + cl
 - You can also create folders via the menu bar: “File > New > New Folder,” and a keyboard shortcut is assigned.
 - You can also delete files via the menu bar's “Edit > Delete” option, and a keyboard shortcut is assigned.
 - To rename files or folders, click the list to enable editing.
+
+### When making an in-app purchase
+#### Select the location of the MIDI file
+
+Select "File > Select MIDI Files Folder..." from the menu bar.  
+A panel for selecting a folder will open. From here, please select the folder containing the MIDI files.
+
+<p align="center">
+<img width="300" height="246" alt="image" src="images/260en.png" />
+</p>
+
+#### Editing Files and Folders
+You can edit song titles, but
+
+- Moving files
+- Create a new folder
+- File deletion
+
+It is not possible.  
+Please perform these tasks in Finder.  
+Currently, undo is not supported, so these operations are disabled.
 
 ### Selecting a MIDI Device
 Pressing the “MIDI” button in the upper-right corner of the window displays a pop-up list of MIDI devices connected to your Mac.
